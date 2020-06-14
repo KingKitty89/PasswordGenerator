@@ -28,3 +28,13 @@ This website will allow the user to generate passwords that are strong and secur
 * #### **Name:** Jessica Helft (@KingKitty89)
 * #### **Email:** [jessicahelft@gmail.com](jessicahelft@gmail.com)
 * #### **LinkedIn:** https://www.linkedin.com/in/jessicahelft
+
+## **Screenshots**
+
+![Demo](./assets/passwordgen1.png)
+![Demo](./assets/passwordgen2.png)
+![Demo](./assets/passwordgen3.png)
+
+## **Tests**
+
+![Demo](./assets/passwordgen.gif)
